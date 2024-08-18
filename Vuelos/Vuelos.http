@@ -1,0 +1,6 @@
+@Vuelos_HostAddress = http://localhost:5253
+
+GET {{Vuelos_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
